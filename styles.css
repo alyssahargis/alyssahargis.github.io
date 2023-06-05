@@ -10,7 +10,7 @@ text-align: left; }
 ul {
 list-style-position: inside;
 text-align: left; 
-margin-left: 380px; }
+display: inline-block; }
 
 a:link {color: #5ba9fc; text-decoration: none;}
 a:visited {color: #5ba9fc; text-decoration: none;}
